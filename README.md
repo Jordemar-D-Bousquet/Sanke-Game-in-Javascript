@@ -6,3 +6,5 @@ Meu nome é Jord e este é meu pequeno projeto de um **jogo da cobrinha** realiz
 Realizado utilizando conhecimentos adquiridos no bootcamp de HTLM , CSS e Javascript.
 
 Espero que gostem!!! :smirk:
+
+Link: https://jordemar-d-bousquet.github.io/Sanke-Game-in-Javascript/
